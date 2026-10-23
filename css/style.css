@@ -22,6 +22,15 @@
     font-size: 16px;
 }
 
+.box input[type="text"]{
+    width: 300px;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0 10px;
+    font-size: 16px;
+}
+
 #show, #hide{
     margin-left: 10px;
     cursor: pointer;
